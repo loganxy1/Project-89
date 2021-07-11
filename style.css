@@ -1,0 +1,41 @@
+body{
+    background-color: fuchsia;
+    text-align: center;
+}
+
+h1{
+    font-size: 40;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+h2, h3{
+    font-size: 30px;
+}
+
+label{
+    font-size: 20px;
+}
+
+#player1, #player2{
+    height: 30px;
+}
+
+#button1{
+    height: 35px;
+    color:fuchsia;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#img2,#img3, #img4{
+    height: 400px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+#img1,#img5{
+    height: 250px;
+    width: 600px;
+    margin-top: 20px;
+}
